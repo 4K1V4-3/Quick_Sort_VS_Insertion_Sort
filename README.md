@@ -12,7 +12,7 @@ For an array of just 15,000 random integers, the following were the findings:\
 
 ```shell
 Insertion Sort =  7.874424236011691
-Quick Sort =  6.134085101017263\
+Quick Sort =  6.134085101017263
 ```
 \
 A more than 1.5 second difference! Scaling up 100-fold, the difference can be staggering.
